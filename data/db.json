@@ -1,0 +1,12 @@
+{
+    "users": [
+        {"id":"1","nama":"adasd", "jk":"pria"},
+        {"id":"2","nama":"adasd", "jk":"pria"},
+        {"id":"3","nama":"adasd", "jk":"pria"},
+        {"id":"4","nama":"adasd", "jk":"pria"},
+        {"id":"4","nama":"adasd", "jk":"pria"},
+        {"id":"5","nama":"adasd", "jk":"pria"},
+        {"id":"6","nama":"adasd", "jk":"pria"},
+        {"id":"7","nama":"adasd", "jk":"pria"}
+    ]
+}
