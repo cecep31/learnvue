@@ -1,6 +1,7 @@
 <template>
     <input type="text" v-model="nama">
     <div v-for="user in user" :key="user.id">{{user.nama}}</div>
+    <img alt="Vue logo" class="transform transition duration-150 hover:rotate-90 cursor-pointer opacity-20 hover:opacity-100  hover:translate-x-32" src="../assets/logo.png">
     <div class="flex-container">
         <div class="nomor">{{no}}</div>
         <button @click="tambah">tamabah nomor</button>
